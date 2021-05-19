@@ -5,6 +5,6 @@
   - Write it down, including the answer (chat, pull request to FAQ)
   - Use anonymous question if you dont dare to ask
 
-## Whats BDL
+## What's BDL
 Basic Digital Litaracy - How to deal with computers'n'stuff. Ubuntu, Linux, Terminal,
 git, github, vscode, Mouse, Monitors...
